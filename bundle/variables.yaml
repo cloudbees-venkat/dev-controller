@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-venkat
+- admin-user: venkat0210k-admin
+- manager-user: venkat0210k
